@@ -1,6 +1,10 @@
 #!/bin/bash
 <<<<<<< HEAD
+<<<<<<< HEAD
 ls -amvp
 =======
 ls -a --format=comma
 >>>>>>> 2dc5b8fb7f9c62366af6343dba556c665dcaf6f9
+=======
+ls -amvp
+>>>>>>> 1b478c7483ee624aad76331aed68d22b3e5ad31d
